@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 tests   001
 
 
@@ -20,3 +21,6 @@ git log--pretty = oneline  //一行显示修改日志，显示起的名和 4096c
 git reset--hard afb5   // 最后面加那个黄色的代码前几个字符，可以跳到相应版本。
 
 git push origin master // 把当前的推送到远程仓库
+=======
+let a = "这里是第三个测试";
+>>>>>>> 834e8fb810e39c95430c9e81e7d7c002fe5a6c68
